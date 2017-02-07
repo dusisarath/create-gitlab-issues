@@ -1,1 +1,3 @@
-# gitlab-issues
+# create-gitlab-issues
+
+Creates Gitlab Issues
